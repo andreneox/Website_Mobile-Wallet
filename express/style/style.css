@@ -1,0 +1,246 @@
+html, body {
+    font-family: 'Bebas Neue', sans-serif !important;
+    background-color: #dbeef0 ;
+    letter-spacing: .5px;
+}
+.navbar {
+    color: white !important;
+}
+.offcanvas-header {
+    background-color: #fe5c2d !important;
+}
+.offcanvas-body {
+    background-color: #fe5c2d !important;
+}
+#nav-link-inicial {
+    padding-left: 5px;
+}
+#nav-link-inicial:hover {
+    background-color: #fff;
+    color: #fe5c2d !important;
+}
+.bi-upc{
+    width: 80px;
+    height: 80px;
+    color: #8eb5b5 !important;
+    margin-left: 50px;
+    margin-bottom: 90px !important;
+}
+#colunaAlado2 {
+    background-image: url(../img/retangulo.png) !important;
+  
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    
+}
+#colunaAlado3 {
+    background-image: url(../img/retangulo.png) !important;
+    
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+    
+}
+#retangulo {
+    padding: 0;
+    width: 100px;
+    height: 30px;
+    
+}
+#celular {
+    height: 80px !important;
+    width: 100px !important;
+    margin-left: 80px;
+    box-shadow: 10px 5px 5px #fe5c2d !important;
+ 
+}
+#mobilewallet {
+    padding: 30px 60px !important;
+    color: #8eb5b5 !important;
+    
+}
+#gocashless {
+    text-align: left;
+    font-size: 100px;
+    color: white;
+    text-shadow: #d23d14 0.1em 0.1em 0.05em !important;
+}
+#listago {
+    text-align: left !important;
+    font-size: 25px;
+    color: white;  
+}
+.botao-download {
+   border: 1px solid black;
+   color: white;
+   background-color: black;
+   width: 150px;
+   padding: 10px 20px;
+
+}
+.botao-download:hover {
+    background-color: #dbeef0;
+    color: #000;
+    border: none;
+}
+#grupo-3 {
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+#tresclasses {
+    background-color: #cfe5e5 !important;
+    height: 250px;
+    border-radius: 30px;
+    padding: auto;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+
+}
+#linha-vertical {
+    height: 100px;
+    border-right: 1px solid red;
+    padding: auto;
+}
+#cellrotate {
+    transform: rotate(340deg)
+}
+#texto-activity {
+    font-size: 50px;
+}
+#paragrafo-activity {
+    width: 430px;
+    height: 80px;
+    text-align: justify;
+    
+}
+.botao-learn {
+    border: 0px none;
+    font-size: 25px;
+    color: black;
+    background-image: linear-gradient(#dbeef0 25px, #fe5c2d 5px);
+    width: 150px;
+    margin-top: 30px;
+    padding: 10px 1px ;
+}    
+.botao-learn:hover {
+    text-decoration: underline;
+}
+#img-experience {
+    background-image: url(../img/5\ pessoal\ .png) !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 20px;
+    
+}
+.bi-play-fill {
+    color: #fe5c2d;
+}
+.botao-experience {
+    border: 0px none;
+    background-color: transparent;
+    margin-top: 160px;
+    margin-left: 220px;
+}
+.bi-play-fill:hover {
+    color: #fff;
+
+}
+#texto-experience {
+    font-size: 50px;
+    padding-left: 40px;
+}
+#paragrafo-experience {
+    width: 430px;
+    height: 80px;
+    padding-left: 40px;
+    text-align: justify;
+}
+.botao-learn-2 {
+    border: 0px none;
+    font-size: 25px;
+    color: black;
+    background-image: linear-gradient(#dbeef0 25px, #fe5c2d 5px);
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 40px;
+    padding: 10px 1px ;
+    
+}
+.botao-learn-2:hover {
+   text-decoration: underline;
+}
+.fundo-5 {
+    background-color: #cfe5e5;
+    overflow: auto;
+    
+}
+#grupo-5 {
+    margin-top: 30px;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+#paragrafo-grupo-5 {
+    margin-top: 20px;
+}
+#creditcard {
+    margin-top: 120px
+    ;
+}
+#insurance {
+    margin-top: 120px
+    ;
+}
+#mortgage {
+    margin-top: 120px
+    ;
+}
+#otherbills {
+    margin-top: 120px
+    ;
+}
+#texto-mobileapp {
+    font-size: 50px;
+    
+    
+}
+#paragrafo-mobileapp {
+    width: 430px;
+    height: 80px;
+  
+}
+#botao-apple-google {
+    border: 0px none;
+    padding-left: 10px;
+    background-color: transparent;
+    
+}
+.final-background {
+    background-color: #cfe5e5;
+    overflow: auto;
+}
+.final-1 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.call {
+    background-color: #000;
+    color: white;
+    font-size: 15px;
+    border: 0px none;
+    width: 140px;
+}
+.call:hover {
+    background-color: #cfe5e5;
+    color: #000;
+}
+#final-logos {
+    padding-left: 200px;
+}
+#nav-final:hover {
+    color: #fe5c2d;
+}
+#final-logos:hover {
+    color: #fe5c2d;
+}
